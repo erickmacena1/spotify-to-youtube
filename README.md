@@ -4,6 +4,8 @@
 
 #### Um bot que transforma uma playlist do Spotify em listas de vídeos do Youtube.
 
+![Spotify para Youtube](./github-assets/spotify-to-youtube.gif)
+
 ### Porquê eu criei o bot
 
 Primeiramente, porquê pareceu legal :). Segundamente, porquê senti necessidade de treinar Node.JS, e nada melhor do que fazer um programa útil para você. No meu caso, utilizo-o para colocar minhas playlists do spotify em salas do discord enquanto jogo com amigos 🙂.
@@ -36,3 +38,7 @@ Primeiramente, porquê pareceu legal :). Segundamente, porquê senti necessidade
 
 9° Após isto basta colar o link da sua playlist e deixar a <del>mágica</del> programação acontecer 🙂
 
+![Program Running](./github-assets/program.gif)
+
+#### - Meu Linkedin 👨‍💻 [linkedin.com/in/erickmacena](https://linkedin.com/in/erickmacena)
+#### - Meu Email 📧 [erickmacena2@gmail.com](erickmacena2@gmail.com)
