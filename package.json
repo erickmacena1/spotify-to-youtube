@@ -4,7 +4,7 @@
   "description": "Generates a Youtube List from a Spotify playlist link :v",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "erickmacena1",
   "license": "ISC",
