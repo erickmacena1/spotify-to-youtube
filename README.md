@@ -41,4 +41,4 @@ Primeiramente, porquê pareceu legal :). Segundamente, porquê senti necessidade
 ![Program Running](./github-assets/program.gif)
 
 #### - Meu Linkedin 👨‍💻 [linkedin.com/in/erickmacena](https://linkedin.com/in/erickmacena)
-#### - Meu Email 📧 [erickmacena2@gmail.com](erickmacena2@gmail.com)
+#### - Meu Email 📧 erickmacena2@gmail.com
