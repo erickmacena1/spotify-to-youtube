@@ -1,5 +1,3 @@
-# 🚧 EM CONSTRUÇÃO 🚧
-
 # 🤖 Spotify para Youtube 🤖
 
 #### Um bot que transforma uma playlist do Spotify em listas de vídeos do Youtube.
@@ -39,6 +37,8 @@ Primeiramente, porquê pareceu legal :). Segundamente, porquê senti necessidade
 9° Após isto basta colar o link da sua playlist e deixar a <del>mágica</del> programação acontecer 🙂
 
 ![Program Running](./github-assets/program.gif)
+
+## Contatos
 
 #### - Meu Linkedin 👨‍💻 [linkedin.com/in/erickmacena](https://linkedin.com/in/erickmacena)
 #### - Meu Email 📧 erickmacena2@gmail.com
