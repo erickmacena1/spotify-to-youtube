@@ -1,0 +1,15 @@
+{
+  "name": "spty-to-yt",
+  "version": "1.0.0",
+  "description": "Generates a Youtube List from a Spotify playlist link :v",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erickmacena1",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
